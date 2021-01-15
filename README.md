@@ -1,0 +1,3 @@
+# Display-all-JPG-files-in-the-given-directory   
+##Try this guys....   
+From hate_Official.
